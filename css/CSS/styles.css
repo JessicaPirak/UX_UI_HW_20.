@@ -1,0 +1,303 @@
+
+
+
+
+
+/* JUMBOTRON */
+
+.custom-jumbotron {
+    background-color: #B2E0FF
+  }
+
+.overlay-content p {
+    font-size: 16px; 
+  }
+
+
+/* Overview*/
+
+.overview{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 50px;
+}
+
+
+/* overview content*/
+
+.the-prob{
+    font-family: sans-serif;
+    font-weight:600;
+    font-size: 24px;
+    color: #F24E1E;
+    padding-top: 32px;
+}
+
+.the-solution{
+    font-family: sans-serif;
+    font-weight:600;
+    font-size: 24px;
+    color: #F24E1E;
+    padding-top: 32px;
+}
+
+.why{
+    font-family: sans-serif;
+    font-weight:600;
+    font-size: 24px;
+    color: #F24E1E;
+    padding-top: 32px;
+}
+
+/* RESEARCH HEADING*/
+
+.research{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 50px;
+}
+
+
+/* RESEARCH content*/
+
+.bold-text {
+    font-weight: bold;
+  }
+  
+  .number {
+    font-weight: bold;
+    margin-right: 0.25em;
+  }
+
+  .interview{
+    font-family: sans-serif;
+    font-weight:600;
+    font-size: 24px;
+    color: #F24E1E;
+    padding-top: 32px;
+  }
+
+.requirements{
+    font-family: sans-serif;
+    font-weight:600;
+    font-size: 16px;
+    color: #289BE9;
+    padding-top: 16px;}
+
+
+.results{
+    font-family: sans-serif;
+    font-weight:600;
+    font-size: 24px;
+    color: #F24E1E;
+    padding-top: 32px;}
+
+    .quotes {
+        margin-left: 0;
+        padding-top: 65px;
+        font-weight: bold;
+      }
+      
+      
+.affinity{
+    font-family: sans-serif;
+    font-weight:600;
+    font-size: 24px;
+    color: #F24E1E;
+     padding-top: 32px;
+      }
+
+
+.persona{
+    font-family: sans-serif;
+    font-weight:600;
+    font-size: 24px;
+    color: #F24E1E;
+    padding-top: 32px;
+     }
+
+.persona-img{
+    margin-top: 24px;
+    border-radius: 16px;
+}
+
+
+/* DEFINITION*/
+
+.definition{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 60px;
+}
+
+
+.user-insight{
+    font-family: sans-serif;
+    font-weight:600;
+    font-size: 24px;
+    color: #F24E1E;
+    padding-top: 32px;
+     }
+
+.prob-statement{
+    font-family: sans-serif;
+    font-weight:600;
+    font-size: 24px;
+     color: #F24E1E;
+     padding-top: 32px;
+         }
+
+.i-like{
+    font-family: sans-serif;
+    font-weight:600;
+    font-size: 24px;
+    color: #F24E1E;
+    padding-top: 32px;
+}
+
+
+.moscow{
+     font-family: sans-serif;
+     font-weight:600;
+     font-size: 24px;
+     color: #F24E1E;
+     padding-top: 32px;
+ }
+
+ .moscow-img{
+    margin-top: 24px;
+    border-radius: 16px;
+}
+
+
+.value{
+    font-family: sans-serif;
+    font-weight:600;
+    font-size: 24px;
+    color: #F24E1E;
+    padding-top: 32px;
+}
+
+
+.journey{
+    font-family: sans-serif;
+    font-weight:600;
+    font-size: 24px;
+    color: #F24E1E;
+    padding-top: 32px;
+}
+
+.journey-img{
+    margin-top: 24px;
+    border-radius: 16px;
+}
+
+
+/* PROTOTYPING HEADING*/
+
+.prototyping{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 50px;
+}
+
+
+/* PROTOTYPING content*/
+
+.comp{
+    font-family: sans-serif;
+    font-weight:600;
+    font-size: 24px;
+    color: #F24E1E;
+    padding-top: 32px;
+}
+
+.comp-img{
+    margin-top: 24px;
+}
+
+
+.user-flow{
+    font-family: sans-serif;
+    font-weight:600;
+    font-size: 24px;
+    color: #F24E1E;
+    padding-top: 32px;
+}
+
+.flow-img{
+    margin-top: 24px;
+}
+
+
+.lofi{
+    font-family: sans-serif;
+    font-weight:600;
+    font-size: 24px;
+    color: #F24E1E;
+    padding-top: 32px;
+}
+
+.lofi-img{
+    margin-top: 24px;
+}
+
+.user-test{
+    font-family: sans-serif;
+    font-weight:600;
+    font-size: 24px;
+    color: #F24E1E;
+    padding-top: 32px;
+  }
+
+.test-results{
+    font-family: sans-serif;
+    font-weight:600;
+    font-size: 16px;
+    color: #289BE9;
+    padding-top: 16px;}
+
+    .iterations{
+        font-family: sans-serif;
+        font-weight:600;
+        font-size: 24px;
+        color: #F24E1E;
+        padding-top: 32px;
+}
+
+.final{
+    font-family: sans-serif;
+    font-weight:600;
+    font-size: 24px;
+    color: #F24E1E;
+    padding-top: 32px;
+}
+    
+.blue-sub{
+    font-family: sans-serif;
+    font-weight:600;
+    font-size: 16px;
+    color: #289BE9;
+    padding-top: 24px;
+    padding-bottom: 16px;
+}
+
+/* CONCLUSION*/
+
+.conclusion{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 50px;
+}
+
+.conlusion-para{
+    padding-top: 24px;
+}
+
+
+/* PROTOTYPING content*/
